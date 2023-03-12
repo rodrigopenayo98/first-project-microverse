@@ -1,0 +1,38 @@
+body{
+    background-color: #6f23ff;
+  font-family: 'Montserrat', sans-serif;
+  margin: 50px 100px 50px 100px;
+  color: white;
+  text-align: center;
+  border: white;
+  
+}
+
+#submit{
+  background-color: green;
+  color: white;
+  
+}
+
+h1{
+  font-family: 'Domine', serif;
+}
+
+p{
+  padding-top: 40px;
+  border-top: 0.5px solid white;
+}
+
+#description{
+  color: aqua;
+}
+
+form{
+  display: inline-block;
+  text-align: left;
+  border: 10px;
+  margin-inline: 5px;
+  padding-inline-start: 15%;
+  padding-bottom: 50%;
+  
+}
